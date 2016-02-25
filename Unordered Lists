@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Unordered Lists</title>
+    </head>
+    <body>
+    <h1>Some Random Thoughts</h1>
+    <p>This unordered list will include random thoughts</p>
+    <ul>
+        <li>I like trains</li>
+        <li>10+9=21</li>
+        <li>Chocolate! :)</li>
+        <li>I like Computing</li>
+    </ul>
+    </body>
+</html>    
